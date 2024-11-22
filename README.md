@@ -1,0 +1,1 @@
+Welcome to the Band Name Generator! This simple Python application generates exciting band names by combining the city you grew up in with your pet's name. It's a fun way to create unique names for your imaginary band!
